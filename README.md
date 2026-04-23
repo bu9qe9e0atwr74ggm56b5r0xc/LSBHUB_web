@@ -1,4 +1,4 @@
-\## LSB HUB (web)
+## LSB HUB (web)
 
 ---
 
