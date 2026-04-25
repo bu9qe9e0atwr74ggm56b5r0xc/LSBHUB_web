@@ -1,0 +1,6 @@
+@LSBHUB.API_HostAddress = http://localhost:5020
+
+GET {{LSBHUB.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
